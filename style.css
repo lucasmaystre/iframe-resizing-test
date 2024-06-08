@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+}
+
+div#container {
+  border-radius: 25px;
+  padding: 25px;
+  background: blue;
+  color: white;
+}
