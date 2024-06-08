@@ -1,0 +1,10 @@
+body {
+  background-color: cyan;
+}
+
+div#container {
+  margin: auto;
+  width: 50%;
+  background-color: yellow;
+  border: green;
+}
